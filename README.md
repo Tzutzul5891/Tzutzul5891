@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Rust an
 
 ## 🚀 Projects I'm Working On
 
-### 🖥️ SSH Server in C
-- A multi-client SSH server built in C using **libsodium** for encryption.
-- Supports shell commands like `cd` and `pwd`.
-- Assigns each client its own working directory.
-
 ### 🔐 SSH Implementation in Rust
 - Asynchronous SSH implementation using **OpenSSL** for RSA and **AES** for encryption.
 - Handles secure communication between clients and servers.
 - Designed to follow OpenSSH standards.
+
+### 🖥️ SSH Server in C
+- A multi-client SSH server built in C using **libsodium** for encryption.
+- Supports shell commands like `cd` and `pwd`.
+- Assigns each client its own working directory.
 
 ### 📂 Total Commander-like Terminal App in Rust
 - A file manager built with **Ratatu**i.
@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Rust an
 - Uses **Devicons** for file type indicators.
 
 ### 🔍 Fast File Search in Rust
-- Implements **parallel search** using **BK-trees**.
 - No external search libraries used.
 - Optimized for speed with `tokio`.
 
