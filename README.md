@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Rust an
 
 ### 🖥️ SSH Server in C
 - A multi-client SSH server built in C using **libsodium** for encryption.
-- Supports shell commands like `cd` and `pwd`.
 - Assigns each client its own working directory.
 
 ### 📂 Total Commander-like Terminal App in Rust
