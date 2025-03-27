@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Rust an
 ## 📫 Get in Touch
 - GitHub: Tzutzul5891(https://github.com/Tzutzul5891)
 - Email: alexandru.apostol4321@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandru-apostol-l/)
 
 Thanks for stopping by! Happy coding! 🚀
